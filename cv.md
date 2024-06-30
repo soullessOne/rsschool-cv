@@ -19,3 +19,11 @@ A beginner software engineer with big passion to create awesome products
 Kyrgyz National University
 *August 2022 - May 2026*
 
+## Skills
+
+- **Programming Languages:** Java, Python
+- **Web Development:** HTML/CSS
+- **Databases:** MySQL
+- **Tools & Technologies:** Git
+
+---
