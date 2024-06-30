@@ -8,3 +8,14 @@
 ---
 
 ## Summary
+
+A beginner software engineer with big passion to create awesome products
+
+---
+
+## Education
+
+**Bachelor of Computer Science**  
+Kyrgyz National University
+*August 2022 - May 2026*
+
